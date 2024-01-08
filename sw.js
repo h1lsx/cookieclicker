@@ -16,6 +16,19 @@ const precachedResources = [
   "/grab.txt",
   "/ajax.js",
   "/DungeonGen.js",
+  "/loc/CS.js",
+  "/loc/DE.js",
+  "/loc/EN.js",
+  "/loc/ES.js",
+  "/loc/FR.js",
+  "/loc/IT.js",
+  "/loc/JA.js",
+  "/loc/KO.js",
+  "/loc/NL.js",
+  "/loc/PL.js",
+  "/loc/PT-BR.js",
+  "/loc/RU.js",
+  "/loc/ZH-CN.js",
 ];
 
 async function precache() {
