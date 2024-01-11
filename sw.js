@@ -1,6 +1,8 @@
 const cacheName = "cookieclicker";
 const precachedResources = [
   "/",
+  "index.html",
+  "sw.js",
   "/main.js", 
   "/icon.png",
   "/manifest.json",
